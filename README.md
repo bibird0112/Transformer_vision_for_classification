@@ -19,7 +19,7 @@ A comprehensive implementation of Vision Transformers (ViT) from scratch using P
 - [Usage](#usage)
 - [References](#references)
 
-## 🎯 Overview
+## Overview
 
 This project implements Vision Transformers for image classification on CIFAR-10, exploring the fundamental question: **"An Image is Worth 16×16 Words"**. By treating images as sequences of patches, we demonstrate how transformer architectures—originally designed for NLP—can achieve state-of-the-art performance in computer vision.
 
