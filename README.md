@@ -246,9 +246,6 @@ pip install numpy matplotlib seaborn tqdm scikit-learn
 ```python
 # Run the notebook
 jupyter notebook VisionTransformer2_with_training.ipynb
-
-# Or execute directly in Python
-python train_vit.py --model vit2 --epochs 300 --batch_size 128
 ```
 
 ### Configuration
