@@ -1,4 +1,4 @@
-# Vision Transformer for Image Classification 🔍
+# Vision Transformer for Image Classification
 
 A comprehensive implementation of Vision Transformers (ViT) from scratch using PyTorch, designed to understand transformer architecture fundamentals and advanced training techniques for computer vision tasks.
 
